@@ -1,6 +1,7 @@
 ---
 title: "Feasibility of creation of a clinico-biological database: A prospective longitudinal cohort study of metastatic breast cancer patients (epicuresein)"
 collection: publications
+category: conferences
 permalink: /publication/2022-02-01-Feasibility-of-creation-of-a-clinico-biological-database-A-prospective-longitudinal-cohort-study-of-metastatic-breast-cancer-patients-epicuresein
 date: 2022-02-01
 venue: 'In the proceedings of Cancer Research'

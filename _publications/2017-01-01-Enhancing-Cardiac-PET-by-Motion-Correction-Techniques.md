@@ -1,6 +1,7 @@
 ---
 title: "Enhancing Cardiac PET by Motion Correction Techniques"
 collection: publications
+category: manuscripts
 permalink: /publication/2017-01-01-Enhancing-Cardiac-PET-by-Motion-Correction-Techniques
 date: 2017-01-01
 venue: 'Current cardiology reports'

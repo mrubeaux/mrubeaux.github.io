@@ -1,6 +1,7 @@
 ---
 title: "Cardiac motion compensation improves reproducibility of 18F-sodium fluoride PET uptake quantification in the aortic valve"
 collection: publications
+category: conferences
 permalink: /publication/2016-01-01-Cardiac-motion-compensation-improves-reproducibility-of-18F-sodium-fluoride-PET-uptake-quantification-in-the-aortic-valve
 date: 2016-01-01
 venue: 'In the proceedings of Journal of Nuclear Medicine'

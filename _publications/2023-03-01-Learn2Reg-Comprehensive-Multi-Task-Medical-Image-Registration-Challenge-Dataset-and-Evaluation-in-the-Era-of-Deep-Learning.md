@@ -1,6 +1,7 @@
 ---
 title: "Learn2Reg: Comprehensive Multi-Task Medical Image Registration Challenge, Dataset and Evaluation in the Era of Deep Learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-03-01-Learn2Reg-Comprehensive-Multi-Task-Medical-Image-Registration-Challenge-Dataset-and-Evaluation-in-the-Era-of-Deep-Learning
 date: 2023-03-01
 venue: 'IEEE Transactions on Medical Imaging'

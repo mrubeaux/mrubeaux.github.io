@@ -1,6 +1,7 @@
 ---
 title: "Automatic Segmentation of Metastatic Breast Cancer Lesions on 18F-FDG PET/CT Longitudinal Acquisitions for Treatment Response Assessment"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-12-01-Automatic-Segmentation-of-Metastatic-Breast-Cancer-Lesions-on-18F-FDG-PETCT-Longitudinal-Acquisitions-for-Treatment-Response-Assessment
 date: 2021-12-01
 venue: 'Cancers'

@@ -1,6 +1,7 @@
 ---
 title: "Thalamic volume as a biomarker for disorders of consciousness"
 collection: publications
+category: conferences
 permalink: /publication/2015-01-01-Thalamic-volume-as-a-biomarker-for-disorders-of-consciousness
 date: 2015-01-01
 venue: 'In the proceedings of Tenth International Symposium on Medical Information Processing and Analysis'

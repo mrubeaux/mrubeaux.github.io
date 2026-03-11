@@ -1,6 +1,7 @@
 ---
 title: "Normal Databases for the Relative Quantification of Myocardial Perfusion"
 collection: publications
+category: manuscripts
 permalink: /publication/2016-08-01-Normal-Databases-for-the-Relative-Quantification-of-Myocardial-Perfusion
 date: 2016-08-01
 venue: 'Current Cardiovascular Imaging Reports'

@@ -1,6 +1,7 @@
 ---
 title: "Medical image registration using Edgeworth-based approximation of Mutual Information"
 collection: publications
+category: manuscripts
 permalink: /publication/2014-06-01-Medical-image-registration-using-Edgeworth-based-approximation-of-Mutual-Information
 date: 2014-06-01
 venue: 'IRBM'

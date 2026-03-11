@@ -1,6 +1,7 @@
 ---
 title: "Technical consideration for dual ECG/respiratory-gated cardiac PET imaging"
 collection: publications
+category: manuscripts
 permalink: /publication/2017-01-01-Technical-consideration-for-dual-ECGrespiratory-gated-cardiac-PET-imaging
 date: 2017-01-01
 venue: 'Journal of Nuclear Cardiology'

@@ -1,6 +1,7 @@
 ---
 title: "Combining Superpixels and Deep Learning Approaches to Segment Active Organs in Metastatic Breast Cancer PET Images $^textrm*$"
 collection: publications
+category: conferences
 permalink: /publication/2020-07-01-Combining-Superpixels-and-Deep-Learning-Approaches-to-Segment-Active-Organs-in-Metastatic-Breast-Cancer-PET-Images-textrm
 date: 2020-07-01
 venue: 'In the proceedings of 42nd Annual International Conference of the IEEE Engineering in Medicine &amp; Biology Society (EMBC)'

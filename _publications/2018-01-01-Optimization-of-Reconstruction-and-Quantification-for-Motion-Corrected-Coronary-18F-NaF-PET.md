@@ -1,6 +1,7 @@
 ---
 title: "Optimization of Reconstruction and Quantification for Motion-Corrected Coronary 18F-NaF PET"
 collection: publications
+category: conferences
 permalink: /publication/2018-01-01-Optimization-of-Reconstruction-and-Quantification-for-Motion-Corrected-Coronary-18F-NaF-PET
 date: 2018-01-01
 venue: 'In the proceedings of Circulation'

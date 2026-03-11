@@ -1,6 +1,7 @@
 ---
 title: "Quantification with normal limits: New cameras and low-dose imaging"
 collection: publications
+category: manuscripts
 permalink: /publication/2017-10-01-Quantification-with-normal-limits-New-cameras-and-low-dose-imaging
 date: 2017-10-01
 venue: 'Journal of Nuclear Cardiology'

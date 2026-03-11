@@ -1,6 +1,7 @@
 ---
 title: "Optimization of reconstruction and quantification of motion-corrected coronary PET-CT"
 collection: publications
+category: manuscripts
 permalink: /publication/2020-04-01-Optimization-of-reconstruction-and-quantification-of-motion-corrected-coronary-PET-CT
 date: 2020-04-01
 venue: 'Journal of Nuclear Cardiology'

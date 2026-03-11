@@ -1,6 +1,7 @@
 ---
 title: "Comparison between traditional and deep learning-based semi-automatic segmentation methods for metastatic breast cancer lesions monitoring"
 collection: publications
+category: conferences
 permalink: /publication/2020-01-01-Comparison-between-traditional-and-deep-learning-based-semi-automatic-segmentation-methods-for-metastatic-breast-cancer-lesions-monitoring
 date: 2020-01-01
 venue: 'In the proceedings of Nuclear Technologies for Health Symposium'

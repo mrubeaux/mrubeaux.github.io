@@ -1,6 +1,7 @@
 ---
 title: "The EPICURE study: a pilot prospective cohort study of heterogeneous and massive data integration in metastatic breast cancer patients"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-12-01-The-EPICURE-study-a-pilot-prospective-cohort-study-of-heterogeneous-and-massive-data-integration-in-metastatic-breast-cancer-patients
 date: 2021-12-01
 venue: 'BMC Cancer'

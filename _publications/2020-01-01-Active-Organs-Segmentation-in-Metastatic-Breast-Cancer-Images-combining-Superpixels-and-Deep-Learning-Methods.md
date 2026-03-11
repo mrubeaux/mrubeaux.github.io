@@ -1,6 +1,7 @@
 ---
 title: "Active Organs Segmentation in Metastatic Breast Cancer Images combining Superpixels and Deep Learning Methods"
 collection: publications
+category: conferences
 permalink: /publication/2020-01-01-Active-Organs-Segmentation-in-Metastatic-Breast-Cancer-Images-combining-Superpixels-and-Deep-Learning-Methods
 date: 2020-01-01
 venue: 'In the proceedings of Nuclear Technologies for Health Symposium'

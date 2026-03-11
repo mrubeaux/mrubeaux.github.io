@@ -1,6 +1,7 @@
 ---
 title: "Epicardial adipose tissue volume but not density is an independent predictor for myocardial ischemia"
 collection: publications
+category: manuscripts
 permalink: /publication/2016-01-01-Epicardial-adipose-tissue-volume-but-not-density-is-an-independent-predictor-for-myocardial-ischemia
 date: 2016-01-01
 venue: 'Journal of cardiovascular computed tomography'

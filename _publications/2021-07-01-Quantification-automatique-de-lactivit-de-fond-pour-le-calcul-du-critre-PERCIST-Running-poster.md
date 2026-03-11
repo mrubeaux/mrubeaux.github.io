@@ -1,6 +1,7 @@
 ---
 title: "Quantification automatique de l’activité de fond pour le calcul du critère PERCIST (+ Running poster)"
 collection: publications
+category: conferences
 permalink: /publication/2021-07-01-Quantification-automatique-de-lactivit-de-fond-pour-le-calcul-du-critre-PERCIST-Running-poster
 date: 2021-07-01
 venue: 'In the proceedings of Médecine Nucléaire'

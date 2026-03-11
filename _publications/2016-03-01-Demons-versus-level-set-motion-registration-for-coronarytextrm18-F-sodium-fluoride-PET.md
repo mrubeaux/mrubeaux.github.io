@@ -1,6 +1,7 @@
 ---
 title: "Demons versus level-set motion registration for coronary$^textrm18$ F-sodium fluoride PET"
 collection: publications
+category: conferences
 permalink: /publication/2016-03-01-Demons-versus-level-set-motion-registration-for-coronarytextrm18-F-sodium-fluoride-PET
 date: 2016-03-01
 venue: 'In the proceedings of SPIE Medical Imaging'

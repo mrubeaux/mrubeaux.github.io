@@ -1,6 +1,7 @@
 ---
 title: "Comparison between threshold-based and deep learning-based bone segmentation on whole-body CT images"
 collection: publications
+category: conferences
 permalink: /publication/2021-02-01-Comparison-between-threshold-based-and-deep-learning-based-bone-segmentation-on-whole-body-CT-images
 date: 2021-02-01
 venue: 'In the proceedings of SPIE Medical Imaging'

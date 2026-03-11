@@ -1,6 +1,7 @@
 ---
 title: "Evaluation of non-rigid constrained CT/CBCT registration algorithms for delineation propagation in the context of prostate cancer radiotherapy"
 collection: publications
+category: conferences
 permalink: /publication/2013-03-01-Evaluation-of-non-rigid-constrained-CTCBCT-registration-algorithms-for-delineation-propagation-in-the-context-of-prostate-cancer-radiotherapy
 date: 2013-03-01
 venue: 'In the proceedings of SPIE Medical Imaging'

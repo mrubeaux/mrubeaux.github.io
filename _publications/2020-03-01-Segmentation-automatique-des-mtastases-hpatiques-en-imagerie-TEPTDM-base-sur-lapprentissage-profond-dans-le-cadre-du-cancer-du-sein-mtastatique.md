@@ -1,6 +1,7 @@
 ---
 title: "Segmentation automatique des métastases hépatiques en imagerie TEP/TDM basée sur l’apprentissage profond dans le cadre du cancer du sein métastatique"
 collection: publications
+category: conferences
 permalink: /publication/2020-03-01-Segmentation-automatique-des-mtastases-hpatiques-en-imagerie-TEPTDM-base-sur-lapprentissage-profond-dans-le-cadre-du-cancer-du-sein-mtastatique
 date: 2020-03-01
 venue: 'In the proceedings of Médecine Nucléaire'

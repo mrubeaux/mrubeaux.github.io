@@ -1,6 +1,7 @@
 ---
 title: "Predicting recurrence in head and neck cancer using new threshold vs feature behavior curves from 18FFDG PET/CT images"
 collection: publications
+category: conferences
 permalink: /publication/2025-05-01-Predicting-recurrence-in-head-and-neck-cancer-using-new-threshold-vs-feature-behavior-curves-from-18FFDG-PETCT-images
 date: 2025-05-01
 venue: 'In the proceedings of Radiotherapy and Oncology'

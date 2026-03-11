@@ -1,6 +1,7 @@
 ---
 title: "Automatic Valve Plane Localization in Myocardial Perfusion SPECT/CT by Machine Learning: Anatomic and Clinical Validation"
 collection: publications
+category: manuscripts
 permalink: /publication/2017-01-01-Automatic-Valve-Plane-Localization-in-Myocardial-Perfusion-SPECTCT-by-Machine-Learning-Anatomic-and-Clinical-Validation
 date: 2017-01-01
 venue: 'Journal of Nuclear Medicine'

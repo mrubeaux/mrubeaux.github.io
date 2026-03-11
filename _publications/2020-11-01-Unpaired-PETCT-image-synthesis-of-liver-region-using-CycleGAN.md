@@ -1,6 +1,7 @@
 ---
 title: "Unpaired PET/CT image synthesis of liver region using CycleGAN"
 collection: publications
+category: conferences
 permalink: /publication/2020-11-01-Unpaired-PETCT-image-synthesis-of-liver-region-using-CycleGAN
 date: 2020-11-01
 venue: 'In the proceedings of 16th International Symposium on Medical Information Processing and Analysis'

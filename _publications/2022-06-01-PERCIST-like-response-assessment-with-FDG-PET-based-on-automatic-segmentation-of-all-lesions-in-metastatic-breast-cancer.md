@@ -1,6 +1,7 @@
 ---
 title: "PERCIST-like response assessment with FDG PET based on automatic segmentation of all lesions in metastatic breast cancer."
 collection: publications
+category: conferences
 permalink: /publication/2022-06-01-PERCIST-like-response-assessment-with-FDG-PET-based-on-automatic-segmentation-of-all-lesions-in-metastatic-breast-cancer
 date: 2022-06-01
 venue: 'In the proceedings of Journal of Clinical Oncology'

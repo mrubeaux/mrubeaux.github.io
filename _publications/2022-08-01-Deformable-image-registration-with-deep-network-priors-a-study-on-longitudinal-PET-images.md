@@ -1,6 +1,7 @@
 ---
 title: "Deformable image registration with deep network priors: a study on longitudinal PET images"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-08-01-Deformable-image-registration-with-deep-network-priors-a-study-on-longitudinal-PET-images
 date: 2022-08-01
 venue: 'Physics in Medicine &amp; Biology'

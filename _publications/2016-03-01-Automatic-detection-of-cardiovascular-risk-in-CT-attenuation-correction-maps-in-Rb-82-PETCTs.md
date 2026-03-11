@@ -1,6 +1,7 @@
 ---
 title: "Automatic detection of cardiovascular risk in CT attenuation correction maps in Rb-82 PET/CTs"
 collection: publications
+category: conferences
 permalink: /publication/2016-03-01-Automatic-detection-of-cardiovascular-risk-in-CT-attenuation-correction-maps-in-Rb-82-PETCTs
 date: 2016-03-01
 venue: 'In the proceedings of SPIE Medical Imaging'

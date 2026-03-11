@@ -1,6 +1,7 @@
 ---
 title: "Molecular Imaging of Vulnerable Coronary Plaque: A Pathophysiologic Perspective"
 collection: publications
+category: manuscripts
 permalink: /publication/2017-01-01-Molecular-Imaging-of-Vulnerable-Coronary-Plaque-A-Pathophysiologic-Perspective
 date: 2017-01-01
 venue: 'Journal of Nuclear Medicine'

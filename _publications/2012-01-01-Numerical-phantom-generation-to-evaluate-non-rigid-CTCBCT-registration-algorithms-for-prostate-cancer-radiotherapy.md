@@ -1,6 +1,7 @@
 ---
 title: "Numerical phantom generation to evaluate non-rigid CT/CBCT registration algorithms for prostate cancer radiotherapy"
 collection: publications
+category: conferences
 permalink: /publication/2012-01-01-Numerical-phantom-generation-to-evaluate-non-rigid-CTCBCT-registration-algorithms-for-prostate-cancer-radiotherapy
 date: 2012-01-01
 venue: 'In the proceedings of first MICCAI workshop on Image-Guidance and Multimodal Dose Planning in Radiation Therapy'

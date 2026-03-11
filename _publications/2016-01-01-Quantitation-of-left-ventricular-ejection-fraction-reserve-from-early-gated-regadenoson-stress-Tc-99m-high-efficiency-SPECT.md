@@ -1,6 +1,7 @@
 ---
 title: "Quantitation of left ventricular ejection fraction reserve from early gated regadenoson stress Tc-99m high-efficiency SPECT"
 collection: publications
+category: manuscripts
 permalink: /publication/2016-01-01-Quantitation-of-left-ventricular-ejection-fraction-reserve-from-early-gated-regadenoson-stress-Tc-99m-high-efficiency-SPECT
 date: 2016-01-01
 venue: 'Journal of Nuclear Cardiology'

@@ -1,6 +1,7 @@
 ---
 title: "Dual-gated motion-frozen cardiac PET with flurpiridaz F 18"
 collection: publications
+category: manuscripts
 permalink: /publication/2015-01-01-Dual-gated-motion-frozen-cardiac-PET-with-flurpiridaz-F-18
 date: 2015-01-01
 venue: 'Journal of Nuclear Medicine'

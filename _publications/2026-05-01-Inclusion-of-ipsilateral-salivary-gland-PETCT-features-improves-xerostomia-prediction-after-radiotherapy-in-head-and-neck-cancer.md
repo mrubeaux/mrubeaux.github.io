@@ -1,6 +1,7 @@
 ---
 title: "Inclusion of ipsilateral salivary gland PET/CT features improves xerostomia prediction after radiotherapy in head and neck cancer"
 collection: publications
+category: conferences
 permalink: /publication/2026-05-01-Inclusion-of-ipsilateral-salivary-gland-PETCT-features-improves-xerostomia-prediction-after-radiotherapy-in-head-and-neck-cancer
 date: 2026-05-01
 venue: 'In the proceedings of ESTRO'

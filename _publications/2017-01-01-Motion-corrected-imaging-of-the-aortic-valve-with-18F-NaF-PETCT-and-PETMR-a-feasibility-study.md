@@ -1,6 +1,7 @@
 ---
 title: "Motion-corrected imaging of the aortic valve with 18F-NaF PET/CT and PET/MR: a feasibility study"
 collection: publications
+category: manuscripts
 permalink: /publication/2017-01-01-Motion-corrected-imaging-of-the-aortic-valve-with-18F-NaF-PETCT-and-PETMR-a-feasibility-study
 date: 2017-01-01
 venue: 'Journal of Nuclear Medicine'

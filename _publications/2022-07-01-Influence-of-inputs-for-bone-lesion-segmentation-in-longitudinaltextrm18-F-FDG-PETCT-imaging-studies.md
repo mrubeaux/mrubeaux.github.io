@@ -1,6 +1,7 @@
 ---
 title: "Influence of inputs for bone lesion segmentation in longitudinal$^textrm18$ F-FDG PET/CT imaging studies"
 collection: publications
+category: conferences
 permalink: /publication/2022-07-01-Influence-of-inputs-for-bone-lesion-segmentation-in-longitudinaltextrm18-F-FDG-PETCT-imaging-studies
 date: 2022-07-01
 venue: 'In the proceedings of 2022 44th Annual International Conference of the IEEE Engineering in Medicine &amp; Biology Society (EMBC)'
