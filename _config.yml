@@ -29,7 +29,7 @@ author:
   bio              : "Assistant Professor in Medical Imaging"
   location         : "Rennes, France"
   employer         : "LTSI, Université de Rennes"
-  uri              : "https://ltsi.univ-rennes.fr/index.php/"
+  uri              : # URL
   email            : "mathieu.rubeaux@univ-rennes.fr" 
 
   # Academic websites
