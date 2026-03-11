@@ -1,6 +1,7 @@
 ---
 title: "Edgeworth-based approximation of Mutual Information for medical image registration"
 collection: publications
+category: conferences
 permalink: /publication/2010-07-01-Edgeworth-based-approximation-of-Mutual-Information-for-medical-image-registration
 date: 2010-07-01
 venue: 'In the proceedings of 2010 2nd International Conference on Image Processing Theory, Tools and Applications'
