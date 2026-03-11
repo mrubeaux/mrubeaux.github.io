@@ -78,7 +78,7 @@ def read(filename: str) -> tuple[list, list]:
 
     # Read the contents of the file
     lines = []
-    with open(filename, 'r') as file:
+    with open(filename, 'r', encoding='utf8') as file:
         delimiter = ',' if filename.endswith('.csv') else '\t'
         reader = csv.reader(file, delimiter=delimiter)
         for row in reader:
