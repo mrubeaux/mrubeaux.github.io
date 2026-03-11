@@ -1,6 +1,7 @@
 ---
 title: "Dense motion estimation of the heart based on cumulants"
-collection: publications
+category: manuscripts
+collection: conferences
 permalink: /publication/2009-01-01-Dense-motion-estimation-of-the-heart-based-on-cumulants
 date: 2009-01-01
 venue: 'In the proceedings of Computers in Cardiology, 2009'
