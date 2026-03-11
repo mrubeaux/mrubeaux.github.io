@@ -1,7 +1,6 @@
 ---
 title: "“Motion-frozen” 18F-sodium fluoride PET for imaging coronary atherosclerotic plaques"
 collection: publications
-category: conferences
 permalink: /publication/2015-01-01-Motion-frozen-18F-sodium-fluoride-PET-for-imaging-coronary-atherosclerotic-plaques
 date: 2015-01-01
 venue: 'In the proceedings of Journal of Nuclear Medicine'

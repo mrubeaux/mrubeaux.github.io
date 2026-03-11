@@ -1,7 +1,6 @@
 ---
 title: "Automatic valve plane localization in myocardial perfusion SPECT images using machine learning"
 collection: publications
-category: conferences
 permalink: /publication/2016-01-01-Automatic-valve-plane-localization-in-myocardial-perfusion-SPECT-images-using-machine-learning
 date: 2016-01-01
 venue: 'In the proceedings of Journal of Nuclear Medicine'

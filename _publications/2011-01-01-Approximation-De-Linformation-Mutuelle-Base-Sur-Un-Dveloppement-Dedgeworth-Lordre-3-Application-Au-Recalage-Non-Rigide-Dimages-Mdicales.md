@@ -1,7 +1,6 @@
 ---
 title: "Approximation De L&apos;information Mutuelle Basée Sur Un Développement D&apos;edgeworth À L&apos;ordre 3: Application Au Recalage Non-Rigide D&apos;images Médicales."
 collection: publications
-category: conferences
 permalink: /publication/2011-01-01-Approximation-De-Linformation-Mutuelle-Base-Sur-Un-Dveloppement-Dedgeworth-Lordre-3-Application-Au-Recalage-Non-Rigide-Dimages-Mdicales
 date: 2011-01-01
 venue: 'In the proceedings of RITS 2011 (Colloque National Recherche en Imagerie et Technologies pour la Santé)'
