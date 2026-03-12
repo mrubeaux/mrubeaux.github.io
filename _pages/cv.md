@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* **Since september 2024**: Associate professor, Université de Rennes, **[LTSI](https://ltsi.univ-rennes.fr/) ([IMPACT](https://ltsi.univ-rennes.fr/IMPACT_home) team/[ISTIC](https://istic.univ-rennes.fr/en)**
+* **Since september 2024**: Associate professor, Université de Rennes, **[LTSI](https://ltsi.univ-rennes.fr/) ([IMPACT](https://ltsi.univ-rennes.fr/IMPACT_home)) team/[ISTIC](https://istic.univ-rennes.fr/en)**
   * Position funded through the **[TIARe](https://intelligence-artificielle.univ-rennes.fr/tiare)** project (Toute l’Intelligence Artificielle à Rennes)
   * Full teaching load (192 hours) at ISTIC – Faculty of Computer Science and Electronics, University of Rennes
   * Research conducted at the Laboratory of Signal and Image Processing (LTSI), UMR 1099 INSERM
