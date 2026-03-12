@@ -23,14 +23,20 @@ Work experience
   * Research conducted at the Laboratory of Signal and Image Processing (LTSI), UMR 1099 INSERM
 
 * 10/2022 - 09/2024: Senior project director, Maincare, Bordeaux
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Financial and operational management of build projects
+  * Coordination of the interventions of functional and technical consultants
+  * Digitalization of the patient records in Luxembourg and Wallis & Futuna
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 4/2017 - 10/2022: R&D Project Director, Keosys Medical Imaging, Nantes
+  * Principal Investigator of the EPICURE FEDER project (5 years, €3.2M)
+  * Established the R&D roadmap of the company
+  * Supervised a multidisciplinary research team (1 postdoctoral researcher, 2 PhD students, software developers)
+
+* 4/2017 - 10/2022: R&D Project Director, Keosys Medical Imaging, Nantes
+  * Principal Investigator of the EPICURE FEDER project (5 years, €3.2M)
+  * Established the R&D roadmap of the company
+  * Supervised a multidisciplinary research team (1 postdoctoral researcher, 2 PhD students, software developers)
+
   
 Skills
 ======
