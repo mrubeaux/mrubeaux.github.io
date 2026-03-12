@@ -15,12 +15,9 @@ My research focuses on medical image processing applied to oncology.
 
 
 **Contact**
-
 mathieu.rubeaux@univ-rennes.fr
-
 +33 6 74 77 45 76
-
-Laboratoire Traitement du Signal et de l'Image (LTSI) - room 411
+**Laboratoire Traitement du Signal et de l'Image (LTSI)** - room 411
 Université de Rennes
 Campus de Beaulieu. Bât 22
 35042 Cedex - Rennes - FRANCE.
