@@ -2,9 +2,9 @@
 title: "Python Programming"
 collection: teaching
 type: "School of of Transmissions, Digital and Cyber"
-permalink: /teaching/2024-2026-ETNC-python
+permalink: /teaching/2025-ETNC-python
 venue: "Université de Rennes, ISTIC"
-date: 2024-2026
+date: 2024-01-01
 location: "City, Country"
 ---
 
