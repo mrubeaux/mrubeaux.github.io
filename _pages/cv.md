@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+You can find my complete CV [here](https://mrubeaux.github.io/files/Mathieu_Rubeaux_CV.pdf).
 
 Education
 ======
@@ -37,15 +38,23 @@ Work experience
   * Established the R&D roadmap of the company
   * Supervised a multidisciplinary research team (1 postdoctoral researcher, 2 PhD students, software developers)
 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 4/2014 - 4/2017: Postdoctoral Researcher / R&D Project Lead, Cedars-Sinai Medical Center, Los Angeles, USA
+  * Development of a software for cardiac perfusion quantification
+  * Research in medical image processing and artificial intelligence
+  * NIH fundings (1R01HL135557-01A1, 770k$ and R01HL089765-09, 600k$)
+
+* 10/2012 - 4/2014: Research Engineer, Therenva, Rennes
+  * C++ software development
+  * Research in cardiac pre and post-op medical image processing
+  * FDA certification for Endosize software (K141475, obtained on 7/2014)
+
+* 10/2011 - 10/2012: Post-Doc, LTSI, Université de Rennes 1
+  * ANR blanc TIGRE project (optimization of Tumor Image Guided RadiothErapy)
+  * Software tools for semi-interactive contouring of organs of interest
+  * Knowledge transfer to the industrial partner (Aquilab)
+
+
+
 
 Publications
 ======
@@ -53,18 +62,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
