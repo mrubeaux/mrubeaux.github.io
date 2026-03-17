@@ -1,5 +1,5 @@
 ---
-title: "Motion Correction of$^textrm18$ F-NaF PET for Imaging Coronary Atherosclerotic Plaques"
+title: "Motion Correction of 18F-NaF PET for Imaging Coronary Atherosclerotic Plaques"
 collection: publications
 category: manuscripts
 permalink: /publication/2016-01-01-Motion-Correction-oftextrm18-F-NaF-PET-for-Imaging-Coronary-Atherosclerotic-Plaques
